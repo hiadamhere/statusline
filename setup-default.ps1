@@ -1,4 +1,4 @@
-﻿# Install the Claude Code status line:
+# Install the Claude Code status line:
 #   model | effort | folder | Git branch | remaining 5-hour / weekly usage
 #
 # Usage (Windows):
